@@ -1,0 +1,4 @@
+Stack:
+Last element that is pushed in the stack is called top and always top element will be pop. This technique is called last in first out(LIFO). Stack is a data structure which follow LIFO technique.
+
+ADT - Abstract data structure. Higher level DT.
